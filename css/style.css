@@ -110,7 +110,7 @@ color: rgb(253, 97, 6);
     
 }
 .abc12 {
-    margin-top: 10px;
+    margin-top: 29px;
  border-top: 6px solid rgb(238, 87, 0);
  width: 100%; 
  border-left: 6px solid rgb(238, 87, 0) ; 
@@ -125,7 +125,7 @@ color: rgb(253, 97, 6);
 
    .abc15 {
     width: 100%;
-    height: 250px;
+    height: 100%;
     padding: 20px;
     
    }
@@ -247,4 +247,7 @@ margin-top: 20px;
 .abc48 {
     color: white;
     border-bottom: 7px solid aqua;
+}
+.abc51 {
+    margin-left: 10px;
 }
